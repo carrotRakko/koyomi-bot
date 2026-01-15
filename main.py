@@ -94,7 +94,7 @@ def format_message(date: datetime, sekki: dict, ko: dict, ko_index: int) -> str:
     date_str = date.strftime("%Y/%m/%d")
     ko_names = ["初候", "次候", "末候"]
 
-    return f"{date_str} dev-daily {ko['emoji']}\n> {sekki['name']}・{ko_names[ko_index]}「{ko['name']}」（{ko['reading']}）"
+    return f"*{date_str} dev-daily* {ko['emoji']}\n> {sekki['name']}・{ko_names[ko_index]}「{ko['name']}」（{ko['reading']}）"
 
 
 def post_to_slack(message: str, webhook_url: str) -> bool:
