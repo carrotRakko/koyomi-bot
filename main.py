@@ -22,8 +22,10 @@ def load_sekki_data() -> dict:
 
 def get_sun_longitude(dt: datetime) -> float:
     """指定日時の太陽黄経を計算（度）"""
-    ts = skyfield_api.load.timescale()
-    eph = skyfield_api.load("de421.bsp")
+    # ~/.skyfield/ にデータを保存（GitHub Actions でキャッシュ可能）
+    load = skyfield_api.Loader("~/.skyfield", verbose=False)
+    ts = load.timescale()
+    eph = load("de421.bsp")
 
     earth = eph["earth"]
     sun = eph["sun"]
