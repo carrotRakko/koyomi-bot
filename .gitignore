@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Skyfield ephemeris data (downloaded at runtime)
+*.bsp
+
+# Environment
+.env

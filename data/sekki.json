@@ -1,0 +1,244 @@
+{
+  "sekki": [
+    {
+      "name": "立春",
+      "reading": "りっしゅん",
+      "longitude": 315,
+      "ko": [
+        {"name": "東風解凍", "reading": "はるかぜこおりをとく", "emoji": "🌬️"},
+        {"name": "黄鶯睍睆", "reading": "うぐいすなく", "emoji": "🐦"},
+        {"name": "魚上氷", "reading": "うおこおりをいずる", "emoji": "🐟"}
+      ]
+    },
+    {
+      "name": "雨水",
+      "reading": "うすい",
+      "longitude": 330,
+      "ko": [
+        {"name": "土脉潤起", "reading": "つちのしょううるおいおこる", "emoji": "💧"},
+        {"name": "霞始靆", "reading": "かすみはじめてたなびく", "emoji": "🌫️"},
+        {"name": "草木萌動", "reading": "そうもくめばえいずる", "emoji": "🌱"}
+      ]
+    },
+    {
+      "name": "啓蟄",
+      "reading": "けいちつ",
+      "longitude": 345,
+      "ko": [
+        {"name": "蟄虫啓戸", "reading": "すごもりむしとをひらく", "emoji": "🐛"},
+        {"name": "桃始笑", "reading": "ももはじめてさく", "emoji": "🌸"},
+        {"name": "菜虫化蝶", "reading": "なむしちょうとなる", "emoji": "🦋"}
+      ]
+    },
+    {
+      "name": "春分",
+      "reading": "しゅんぶん",
+      "longitude": 0,
+      "ko": [
+        {"name": "雀始巣", "reading": "すずめはじめてすくう", "emoji": "🐦"},
+        {"name": "桜始開", "reading": "さくらはじめてひらく", "emoji": "🌸"},
+        {"name": "雷乃発声", "reading": "かみなりすなわちこえをはっす", "emoji": "⚡"}
+      ]
+    },
+    {
+      "name": "清明",
+      "reading": "せいめい",
+      "longitude": 15,
+      "ko": [
+        {"name": "玄鳥至", "reading": "つばめきたる", "emoji": "🕊️"},
+        {"name": "鴻雁北", "reading": "こうがんきたへかえる", "emoji": "🦢"},
+        {"name": "虹始見", "reading": "にじはじめてあらわる", "emoji": "🌈"}
+      ]
+    },
+    {
+      "name": "穀雨",
+      "reading": "こくう",
+      "longitude": 30,
+      "ko": [
+        {"name": "葭始生", "reading": "あしはじめてしょうず", "emoji": "🌾"},
+        {"name": "霜止出苗", "reading": "しもやんでなえいずる", "emoji": "🌿"},
+        {"name": "牡丹華", "reading": "ぼたんはなさく", "emoji": "🌺"}
+      ]
+    },
+    {
+      "name": "立夏",
+      "reading": "りっか",
+      "longitude": 45,
+      "ko": [
+        {"name": "蛙始鳴", "reading": "かわずはじめてなく", "emoji": "🐸"},
+        {"name": "蚯蚓出", "reading": "みみずいずる", "emoji": "🪱"},
+        {"name": "竹笋生", "reading": "たけのこしょうず", "emoji": "🎋"}
+      ]
+    },
+    {
+      "name": "小満",
+      "reading": "しょうまん",
+      "longitude": 60,
+      "ko": [
+        {"name": "蚕起食桑", "reading": "かいこおきてくわをはむ", "emoji": "🐛"},
+        {"name": "紅花栄", "reading": "べにばなさかう", "emoji": "🌹"},
+        {"name": "麦秋至", "reading": "むぎのときいたる", "emoji": "🌾"}
+      ]
+    },
+    {
+      "name": "芒種",
+      "reading": "ぼうしゅ",
+      "longitude": 75,
+      "ko": [
+        {"name": "蟷螂生", "reading": "かまきりしょうず", "emoji": "🦗"},
+        {"name": "腐草為螢", "reading": "くされたるくさほたるとなる", "emoji": "✨"},
+        {"name": "梅子黄", "reading": "うめのみきばむ", "emoji": "🍋"}
+      ]
+    },
+    {
+      "name": "夏至",
+      "reading": "げし",
+      "longitude": 90,
+      "ko": [
+        {"name": "乃東枯", "reading": "なつかれくさかるる", "emoji": "🥀"},
+        {"name": "菖蒲華", "reading": "あやめはなさく", "emoji": "💜"},
+        {"name": "半夏生", "reading": "はんげしょうず", "emoji": "🌿"}
+      ]
+    },
+    {
+      "name": "小暑",
+      "reading": "しょうしょ",
+      "longitude": 105,
+      "ko": [
+        {"name": "温風至", "reading": "あつかぜいたる", "emoji": "🌀"},
+        {"name": "蓮始開", "reading": "はすはじめてひらく", "emoji": "🪷"},
+        {"name": "鷹乃学習", "reading": "たかすなわちわざをならう", "emoji": "🦅"}
+      ]
+    },
+    {
+      "name": "大暑",
+      "reading": "たいしょ",
+      "longitude": 120,
+      "ko": [
+        {"name": "桐始結花", "reading": "きりはじめてはなをむすぶ", "emoji": "🌳"},
+        {"name": "土潤溽暑", "reading": "つちうるおうてむしあつし", "emoji": "🥵"},
+        {"name": "大雨時行", "reading": "たいうときどきにふる", "emoji": "🌧️"}
+      ]
+    },
+    {
+      "name": "立秋",
+      "reading": "りっしゅう",
+      "longitude": 135,
+      "ko": [
+        {"name": "涼風至", "reading": "すずかぜいたる", "emoji": "🍃"},
+        {"name": "寒蝉鳴", "reading": "ひぐらしなく", "emoji": "🦗"},
+        {"name": "蒙霧升降", "reading": "ふかききりまとう", "emoji": "🌫️"}
+      ]
+    },
+    {
+      "name": "処暑",
+      "reading": "しょしょ",
+      "longitude": 150,
+      "ko": [
+        {"name": "綿柎開", "reading": "わたのはなしべひらく", "emoji": "🌼"},
+        {"name": "天地始粛", "reading": "てんちはじめてさむし", "emoji": "🌬️"},
+        {"name": "禾乃登", "reading": "こくものすなわちみのる", "emoji": "🌾"}
+      ]
+    },
+    {
+      "name": "白露",
+      "reading": "はくろ",
+      "longitude": 165,
+      "ko": [
+        {"name": "草露白", "reading": "くさのつゆしろし", "emoji": "💧"},
+        {"name": "鶺鴒鳴", "reading": "せきれいなく", "emoji": "🐦"},
+        {"name": "玄鳥去", "reading": "つばめさる", "emoji": "🕊️"}
+      ]
+    },
+    {
+      "name": "秋分",
+      "reading": "しゅうぶん",
+      "longitude": 180,
+      "ko": [
+        {"name": "雷乃収声", "reading": "かみなりすなわちこえをおさむ", "emoji": "🔇"},
+        {"name": "蟄虫坏戸", "reading": "むしかくれてとをふさぐ", "emoji": "🚪"},
+        {"name": "水始涸", "reading": "みずはじめてかるる", "emoji": "🏜️"}
+      ]
+    },
+    {
+      "name": "寒露",
+      "reading": "かんろ",
+      "longitude": 195,
+      "ko": [
+        {"name": "鴻雁来", "reading": "こうがんきたる", "emoji": "🦢"},
+        {"name": "菊花開", "reading": "きくのはなひらく", "emoji": "🌼"},
+        {"name": "蟋蟀在戸", "reading": "きりぎりすとにあり", "emoji": "🦗"}
+      ]
+    },
+    {
+      "name": "霜降",
+      "reading": "そうこう",
+      "longitude": 210,
+      "ko": [
+        {"name": "霜始降", "reading": "しもはじめてふる", "emoji": "❄️"},
+        {"name": "霎時施", "reading": "こさめときどきふる", "emoji": "🌧️"},
+        {"name": "楓蔦黄", "reading": "もみじつたきばむ", "emoji": "🍁"}
+      ]
+    },
+    {
+      "name": "立冬",
+      "reading": "りっとう",
+      "longitude": 225,
+      "ko": [
+        {"name": "山茶始開", "reading": "つばきはじめてひらく", "emoji": "🌺"},
+        {"name": "地始凍", "reading": "ちはじめてこおる", "emoji": "🥶"},
+        {"name": "金盞香", "reading": "きんせんかさく", "emoji": "💛"}
+      ]
+    },
+    {
+      "name": "小雪",
+      "reading": "しょうせつ",
+      "longitude": 240,
+      "ko": [
+        {"name": "虹蔵不見", "reading": "にじかくれてみえず", "emoji": "🌥️"},
+        {"name": "朔風払葉", "reading": "きたかぜこのはをはらう", "emoji": "🍂"},
+        {"name": "橘始黄", "reading": "たちばなはじめてきばむ", "emoji": "🍊"}
+      ]
+    },
+    {
+      "name": "大雪",
+      "reading": "たいせつ",
+      "longitude": 255,
+      "ko": [
+        {"name": "閉塞成冬", "reading": "そらさむくふゆとなる", "emoji": "⛄"},
+        {"name": "熊蟄穴", "reading": "くまあなにこもる", "emoji": "🐻"},
+        {"name": "鱖魚群", "reading": "さけのうおむらがる", "emoji": "🐟"}
+      ]
+    },
+    {
+      "name": "冬至",
+      "reading": "とうじ",
+      "longitude": 270,
+      "ko": [
+        {"name": "乃東生", "reading": "なつかれくさしょうず", "emoji": "🌱"},
+        {"name": "麋角解", "reading": "さわしかのつのおつる", "emoji": "🦌"},
+        {"name": "雪下出麦", "reading": "ゆきわたりてむぎいずる", "emoji": "🌾"}
+      ]
+    },
+    {
+      "name": "小寒",
+      "reading": "しょうかん",
+      "longitude": 285,
+      "ko": [
+        {"name": "芹乃栄", "reading": "せりすなわちさかう", "emoji": "🌿"},
+        {"name": "水泉動", "reading": "しみずあたたかをふくむ", "emoji": "💧"},
+        {"name": "雉始雊", "reading": "きじはじめてなく", "emoji": "🐦"}
+      ]
+    },
+    {
+      "name": "大寒",
+      "reading": "だいかん",
+      "longitude": 300,
+      "ko": [
+        {"name": "款冬華", "reading": "ふきのはなさく", "emoji": "🌼"},
+        {"name": "水沢腹堅", "reading": "さわみずこおりつめる", "emoji": "🧊"},
+        {"name": "鶏始乳", "reading": "にわとりはじめてとやにつく", "emoji": "🐔"}
+      ]
+    }
+  ]
+}
