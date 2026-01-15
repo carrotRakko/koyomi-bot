@@ -97,7 +97,7 @@ def format_message(date: datetime, sekki: dict, ko: dict, ko_index: int) -> str:
     return f"*{date_str} dev-daily* {ko['emoji']}\n> {sekki['name']}・{ko_names[ko_index]}「{ko['name']}」（{ko['reading']}）"
 
 
-ICON_URL = "https://raw.githubusercontent.com/carrotRakko/koyomi-bot/main/assets/icon.png"
+ICON_URL = "https://raw.githubusercontent.com/carrotRakko/koyomi-bot/main/assets/icon.png?v=2"
 BOT_NAME = "暦ぼっと"
 
 
