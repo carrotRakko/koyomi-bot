@@ -113,6 +113,8 @@ def post_to_slack(message: str, webhook_url: str) -> bool:
             },
             timeout=10
         )
+        if response.status_code != 200:
+            print(f"Slack API エラー: {response.status_code} {response.text}")
         return response.status_code == 200
     except Exception as e:
         print(f"Slack 投稿エラー: {e}")
